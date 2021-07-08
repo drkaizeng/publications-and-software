@@ -4,7 +4,7 @@
 
 <a name="publications"></a>
 # Publications
-- Zeng K, Charlesworth B, Hobolth A. 2021. Studying models of balancing selection using phase-type theory. Genetics *in the press*. (Click here to access the associated R package bls).
+- Zeng K, Charlesworth B, Hobolth A. 2021. Studying models of balancing selection using phase-type theory. Genetics *in the press*. 
 
 - Hayes K, Barton HJ, Zeng K. 2020. A study of faster-Z evolution in the great tit (Parus major). Genome Bio Evol 12:210–222. 
 
