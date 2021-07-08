@@ -87,3 +87,41 @@
 
 <a name="software"></a>
 # Software
+
+## anavar
+This computer package implements several methods for estimating parameters by analysing variants (hence anavar) in population genomic datasets. These include: (1) the methods for inferring the distribution of fitness effects (DFE) for INDELs and SNPs described in Barton and Zeng (2018), (2) the method for inferring the DFE for SNPs by Eyre-Walker et al. (2006; Genetics 173:891-900), and (3) the methods for inferring the strength of GC-biased gene conversion (gBGC) by Glémin et al. (2015; Genome Res 25:1215-1228).
+
+ 
+
+bls
+This R package implements the phase-type methods described in Zeng et al. (2020). As detailed in the manual, it contains functions for obtaining the total branch length and the site frequency spectrum for the following models: (1) an equilibrium model of long-term balancing selection, (2) a model with long-term balancing selection and changes in population size, (3) a model of recent balancing selection, (4) a selective sweep model (complete/incomplete), (5) neutral models with changes in population size, (6) neutral models with two demes and changes in migration rates and/or deme sizes, and (7) isolation with migration models.
+
+ 
+
+DH
+This computer package can carry out the following tests: Tajima’s D, Fay and Wu’s H, the Ewens-Watterson test, the E test, the compound tests (DH, HEW and DHEW). These were describied in Zeng et al. (2006, 2007a, b).
+
+ 
+
+Evans et al. (2014)
+This computer package contains an extended version of the program used to obtain the results reported in the above paper. Briefly, it can be used to estimate the X:A ratio of effective population size, taking into account changes in population size and weak selection (e.g., selection on codon bias).
+
+ 
+
+Forwards
+A program for generating samples under selection and demographic models using forwards-in-time simulations. This algorithm was used in Zeng and Charlesworth (2011), Zeng (2013), and Zeng and Corcoran (2015).
+
+ 
+
+msbgs
+A program for generating samples under background selection models using the structured coalescent (Zeng and Charlesworth 2011; Zeng 2013; Zeng and Corcoran 2015). The following important biological factors can be included in the simulations: sites under purifying selection (including a distribution of fitness effects), linked neutral sites, and demography (changes in population size and population subdivision).
+
+ 
+
+VarNe
+This program implements the methods described in Zeng and Jackson (2018). These methods can infer demography and detect between-locus differences in N_e (the effective population size) and u (the mutation rate).
+
+ 
+
+Zeng and Charlesworth (2009)
+This computer package implements the two-allele model with reversible mutation, selection, and varying population size described in Zeng and Charlesworth (2009). It can be used to infer demographic, detect selection on codon usage, and find evidence for GC-biased gene conversion.
