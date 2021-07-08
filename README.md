@@ -87,14 +87,14 @@
 
 <a name="software"></a>
 # Software
-Click the package names to download.
+Click on the package names to download.
 
 ## [anavar](https://github.com/drkaizeng/publications-and-software/blob/main/anavar/anavar1.4.zip)
 This computer package implements several methods for estimating parameters by analysing variants (hence anavar) in population genomic datasets. These include: (1) the methods for inferring the distribution of fitness effects (DFE) for INDELs and SNPs described in Barton and Zeng (2018), (2) the method for inferring the DFE for SNPs by Eyre-Walker et al. (2006; Genetics 173:891-900), and (3) the methods for inferring the strength of GC-biased gene conversion (gBGC) by Glémin et al. (2015; Genome Res 25:1215-1228).
 
  
 
-bls
+## [bls]()
 This R package implements the phase-type methods described in Zeng et al. (2020). As detailed in the manual, it contains functions for obtaining the total branch length and the site frequency spectrum for the following models: (1) an equilibrium model of long-term balancing selection, (2) a model with long-term balancing selection and changes in population size, (3) a model of recent balancing selection, (4) a selective sweep model (complete/incomplete), (5) neutral models with changes in population size, (6) neutral models with two demes and changes in migration rates and/or deme sizes, and (7) isolation with migration models.
 
  
