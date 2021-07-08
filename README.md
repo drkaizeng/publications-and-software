@@ -87,8 +87,9 @@
 
 <a name="software"></a>
 # Software
+Click the package names to download.
 
-## anavar
+## [anavar](https://github.com/drkaizeng/publications-and-software/blob/main/anavar/anavar1.4.zip)
 This computer package implements several methods for estimating parameters by analysing variants (hence anavar) in population genomic datasets. These include: (1) the methods for inferring the distribution of fitness effects (DFE) for INDELs and SNPs described in Barton and Zeng (2018), (2) the method for inferring the DFE for SNPs by Eyre-Walker et al. (2006; Genetics 173:891-900), and (3) the methods for inferring the strength of GC-biased gene conversion (gBGC) by Glémin et al. (2015; Genome Res 25:1215-1228).
 
  
