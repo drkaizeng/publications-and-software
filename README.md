@@ -18,12 +18,12 @@ This R package implements the phase-type methods described in Zeng et al. ([2021
  
 
 ## [DH](https://github.com/drkaizeng/publications-and-software/blob/main/dh/dh.zip)
-This computer package can carry out the following tests: Tajima’s D, Fay and Wu’s H, the Ewens-Watterson test, the E test, the compound tests (DH, HEW and DHEW). These were describied in Zeng et al. ([2006](#zeng2006)), Zeng et al. ([2007a](#zeng2007a)), and Zeng et al. ([2007b](#zeng2007b)).
+This computer package can carry out the following tests: Tajima’s D, Fay and Wu’s H, the Ewens-Watterson test, the E test, the compound tests (DH, HEW and DHEW). These were describied in Zeng et al. ([2006](#zeng2006)), Zeng, Mano, et al. ([2007a](#zeng2007a)), and Zeng, Shi, et al. ([2007b](#zeng2007b)).
 
  
 
-Evans et al. (2014)
-This computer package contains an extended version of the program used to obtain the results reported in the above paper. Briefly, it can be used to estimate the X:A ratio of effective population size, taking into account changes in population size and weak selection (e.g., selection on codon bias).
+## [Evans et al. (2014)]
+This computer package contains an extended version of the program used to obtain the results reported in Evans et al. ([2014](#evans2014)). Briefly, it can be used to estimate the X:A ratio of effective population size, taking into account changes in population size and weak selection (e.g., selection on codon bias).
 
  
 
@@ -83,6 +83,7 @@ This computer package implements the two-allele model with reversible mutation, 
 
 - Gossmann TI, Santure AW, Sheldon BC, Slate J, Zeng K. 2014. Highly variable recombinational landscape modulates efficacy of natural selection in birds. Genome Biol Evol 6: 2061-2075.
 
+<a name="evans2014"></a>
 - Evans B, Zeng K, Esselstyn JA, Charlesworth B, Melnick DJ. 2014. Reduced representation genome sequencing suggests low diversity on the sex chromosomes of tonkean macaque monkeys. Mol Biol Evol 31: 2425-2440.
 
 - Nagylaki T, Zeng K. 2014. Clines with complete dominance and partial panmixia in an unbounded unidimensional habitat. Theor Popul Biol 93:63-74.
