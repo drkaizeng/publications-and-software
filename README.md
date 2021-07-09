@@ -18,7 +18,7 @@ This R package implements the phase-type methods described in Zeng et al. ([2021
  
 
 ## [DH](https://github.com/drkaizeng/publications-and-software/blob/main/dh/dh.zip)
-This computer package can carry out the following tests: Tajima’s D, Fay and Wu’s H, the Ewens-Watterson test, the E test, the compound tests (DH, HEW and DHEW). These were describied in Zeng et al. ([2006](#zeng2006)), Zeng, Mano, et al. ([2007a](#zeng2007a)), and Zeng, Shi, et al. ([2007b](#zeng2007b)).
+This computer package can carry out the following tests: Tajima’s D, Fay and Wu’s H, the Ewens-Watterson test, the E test, the compound tests (DH, HEW and DHEW). These were describied in Zeng et al. ([2006](#zeng2006)), Zeng, Mano, et al. ([2007](#zeng2007a)), and Zeng, Shi, et al. ([2007](#zeng2007b)).
 
  
 
@@ -27,8 +27,8 @@ This computer package contains an extended version of the program used to obtain
 
  
 
-Forwards
-A program for generating samples under selection and demographic models using forwards-in-time simulations. This algorithm was used in Zeng and Charlesworth (2011), Zeng (2013), and Zeng and Corcoran (2015).
+## [Forwards]
+A program for generating samples under selection and demographic models using forwards-in-time simulations. This algorithm was used in Zeng and Charlesworth ([2011](#zeng2011)), Zeng ([2013](#zeng2013)), and Zeng and Corcoran ([2015](#zeng2015)).
 
  
 
@@ -77,6 +77,7 @@ This computer package implements the two-allele model with reversible mutation, 
 
 - Küpper C, Stocks M, Risse JE, dos Remedios N, Farrell LL, McRae SB, Morgan TC, Karlionova N, Pinchuk P, Verkuil YI, Kitaysky AS, Wingfield JC, Piersma T, Zeng K, Slate J, Blaxter M, Lank DB, Burke T. 2016. A supergene determines highly divergent male reproductive morphs in the ruff. Nat Genet 48:79-83.
 
+<a name="zeng2015"></a>
 - Zeng K, Corcoran P. 2015. The effects of background and interference selection on patterns of genetic variation in subdivided populations. Genetics 201:1539-54.
 
 - Jackson BC, Campos JL, Zeng K. 2015. The effects of purifying selection on patterns of genetic differentiation between Drosophila melanogaster populations. Heredity 114:163-174.
@@ -90,6 +91,7 @@ This computer package implements the two-allele model with reversible mutation, 
 
 - Campos JL, Zeng K, Parker DJ, Charlesworth B, Haddrill PR. 2013. Codon Usage Bias and Effective Population Sizes on the X Chromosome versus the Autosomes in Drosophila melanogaster. Mol Biol Evol 30: 811-823.
 
+<a name="zeng2013"></a>
 - Zeng K. 2013. A coalescent model of background selection with recombination, demography and variation in selection coefficients. Heredity 110: 363-371.
 
 - Fang S, Yukilevich R, Chen Y, Turissini DA, Zeng K, Boussy IA, Wu CI. 2012. Incompatibility and competitive exclusion of genomic segments between sibling Drosophila species. PLoS Genet 8: e1002795.
@@ -100,6 +102,7 @@ This computer package implements the two-allele model with reversible mutation, 
 
 - Qiu S*, Zeng K*, Slotte T*, Wright S, Charlesworth D. 2011. Reduced efficacy of natural selection on codon usage bias in selfing Arabidopsis and Capsella species. Genome Biol. Evol. 3: 868-880. (* co-first author).
 
+<a name="zeng2011"></a>
 - Zeng K, Charlesworth B. 2011. The joint effects of background selection and genetic recombination on local gene genealogies. Genetics 189: 251-266.
 
 - Haddrill PR, Zeng K, Charlesworth B. 2011. Determinants of synonymous and nonsynonymous variability in three species of Drosophila. Mol. Biol. Evol. 28:1731-1743.
