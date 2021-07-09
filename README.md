@@ -32,7 +32,7 @@ A program for generating samples under selection and demographic models using fo
 
  
 
-## [msbgs]
+## [msbgs](https://github.com/drkaizeng/publications-and-software/blob/main/msbgs/msbgs_v1.01.tar.gz)
 A program for generating samples under background selection models using the structured coalescent (Zeng and Charlesworth [2011](#zeng2011); Zeng [2013](#zeng2013); Zeng and Corcoran [2015](#zeng2015)). The following important biological factors can be included in the simulations: sites under purifying selection (including a distribution of fitness effects), linked neutral sites, and demography (changes in population size and population subdivision).
 
  
