@@ -37,8 +37,8 @@ A program for generating samples under background selection models using the str
 
  
 
-VarNe
-This program implements the methods described in Zeng and Jackson (2018). These methods can infer demography and detect between-locus differences in N_e (the effective population size) and u (the mutation rate).
+## [VarNe]()
+This program implements the methods described in Zeng et al. ([2019](#zeng2019)). These methods can infer demography and detect between-locus differences in $N_e$ (the effective population size) and $u$ (the mutation rate).
 
 
 Zeng and Charlesworth (2009)
@@ -60,6 +60,7 @@ This computer package implements the two-allele model with reversible mutation, 
 
 - Kim K-W*, Jackson BC*, Zhang H, Toews D, Taylor S, Greig E, Lovette I, Liu M, Davison A, Griffith S, Zeng K, Burke T. 2019. Genetics and evidence for balancing selection of a sex-linked colour polymorphism in a songbird. Nat Commun 10:1852 (* co-first authors).
 
+<a name="zeng2019"></a>
 - Zeng K, Jackson BC, Barton HJ. 2019. Methods for estimating demography and detecting between-locus differences in the effective population size and mutation rate. Mol Biol Evol 36:423-433.
 
 <a name="bartonzeng2018"></a>
