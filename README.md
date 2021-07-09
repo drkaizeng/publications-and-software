@@ -17,8 +17,8 @@ This R package implements the phase-type methods described in Zeng et al. ([2021
 
  
 
-DH
-This computer package can carry out the following tests: Tajima’s D, Fay and Wu’s H, the Ewens-Watterson test, the E test, the compound tests (DH, HEW and DHEW). These were describied in Zeng et al. (2006, 2007a, b).
+## [DH]
+This computer package can carry out the following tests: Tajima’s D, Fay and Wu’s H, the Ewens-Watterson test, the E test, the compound tests (DH, HEW and DHEW). These were describied in Zeng et al. ([2006]), Zeng et al. ([2007a]), and Zeng et al. ([2007b]).
 
  
 
