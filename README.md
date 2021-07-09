@@ -119,10 +119,13 @@ This computer package implements the two-allele model with reversible mutation, 
 
 - Zhou R*, Zeng K*, Wu W, Chen X, Yang Z, Shi S, Wu C.-I. 2007. Population genetics of speciation in non-model organisms: I. Ancestral polymorphism in mangroves. Mol. Biol. Evol. 24: 2746-2754. (* co-first authors).
 
+<a name="zeng2007b"></a>
 - Zeng K, Shi S, Wu C.-I. 2007. Compound tests for the detection of hitchhiking under positive selection. Mol. Biol. Evol. 24: 1898-1908.
 
+<a name="zeng2007a"></a>
 - Zeng K, Mano S, Shi S, Wu C.-I. 2007. Comparisons of site- and haplotype-frequency methods for detecting positive selection. Mol. Biol. Evol. 24: 1562-1574.
 
+<a name="zeng2006"></a>
 - Zeng K, Fu Y.-X, Shi S, Wu C.-I. 2006. Statistical tests for detecting positive selection by utilizing high-frequency variants. Genetics 174: 1431-1439.
 
 - Tang T, Lu J, Huang J, He J, McCouch SR, Shen Y, Zeng K, Purugganan MD, Shi S, Wu C.-I. 2006. Genomic variation in rice: genesis of highly polymorphic linkage blocks during domestication. PLoS Genet. 2: e199.
