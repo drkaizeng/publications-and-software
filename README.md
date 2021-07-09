@@ -37,7 +37,7 @@ A program for generating samples under background selection models using the str
 
  
 
-## [VarNe]()
+## [VarNe](https://github.com/drkaizeng/publications-and-software/blob/main/varne/varne_v2.00.zip)
 This program implements the methods described in Zeng et al. ([2019](#zeng2019)). These methods can infer demography and detect between-locus differences in $N_e$ (the effective population size) and $u$ (the mutation rate).
 
 
