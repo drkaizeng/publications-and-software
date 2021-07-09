@@ -94,8 +94,8 @@ This computer package implements several methods for estimating parameters by an
 
  
 
-## [bls]()
-This R package implements the phase-type methods described in Zeng et al. (2020). As detailed in the manual, it contains functions for obtaining the total branch length and the site frequency spectrum for the following models: (1) an equilibrium model of long-term balancing selection, (2) a model with long-term balancing selection and changes in population size, (3) a model of recent balancing selection, (4) a selective sweep model (complete/incomplete), (5) neutral models with changes in population size, (6) neutral models with two demes and changes in migration rates and/or deme sizes, and (7) isolation with migration models.
+## [bls](https://github.com/drkaizeng/publications-and-software/blob/main/bls/bls_v1.00.zip)
+This R package implements the phase-type methods described in Zeng et al. (2020). As detailed in the [manual](https://github.com/drkaizeng/publications-and-software/blob/main/bls/bls_v1.00.pdf), it contains functions for obtaining the total branch length and the site frequency spectrum for the following models: (1) an equilibrium model of long-term balancing selection, (2) a model with long-term balancing selection and changes in population size, (3) a model of recent balancing selection, (4) a selective sweep model (complete/incomplete), (5) neutral models with changes in population size, (6) neutral models with two demes and changes in migration rates and/or deme sizes, and (7) isolation with migration models.
 
  
 
