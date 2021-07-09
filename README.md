@@ -22,7 +22,7 @@ This computer package can carry out the following tests: Tajima’s D, Fay and W
 
  
 
-## [Evans et al. (2014)]
+## [Evans et al. (2014)](https://github.com/drkaizeng/publications-and-software/blob/main/evans2014/data_2a_step_xa_m1_2014.06.25.zip)
 This computer package contains an extended version of the program used to obtain the results reported in Evans et al. ([2014](#evans2014)). Briefly, it can be used to estimate the X:A ratio of effective population size, taking into account changes in population size and weak selection (e.g., selection on codon bias).
 
  
