@@ -38,11 +38,11 @@ A program for generating samples under background selection models using the str
  
 
 ## [VarNe](https://github.com/drkaizeng/publications-and-software/blob/main/varne/varne_v2.00.zip)
-This program implements the methods described in Zeng et al. ([2019](#zeng2019)). These methods can infer demography and detect between-locus differences in $N_e$ (the effective population size) and $u$ (the mutation rate).
+This program implements the methods described in Zeng et al. ([2019](#zeng2019)). These methods can infer demography and detect between-locus differences in Ne (the effective population size) and u (the mutation rate).
 
 
-Zeng and Charlesworth (2009)
-This computer package implements the two-allele model with reversible mutation, selection, and varying population size described in Zeng and Charlesworth (2009). It can be used to infer demographic, detect selection on codon usage, and find evidence for GC-biased gene conversion.
+## [Zeng and Charlesworth (2009)]()
+This computer package implements the two-allele model with reversible mutation, selection, and varying population size described in Zeng and Charlesworth ([2009](#zeng2009)). It can be used to infer demographic, detect selection on codon usage, and find evidence for GC-biased gene conversion.
 
 
 
@@ -118,6 +118,7 @@ This computer package implements the two-allele model with reversible mutation, 
 
 - Sharp P, Emery L, Zeng K. 2010. Forces that influence the evolution of codon bias. Phil. Trans. R. Soc. B 365:1203-1212.
 
+<a name="zeng2009"></a>
 - Zeng K, Charlesworth B. 2009. Estimating selection intensity on synonymous codon usage in a non-equilibrium population. Genetics 183: 651-662.
 
 - Lu J, Fu Y, Kumar S, Shen Y, Zeng K, Xu A, Carthew R, Wu C.-I. 2008. Adaptive evolution of newly emerged micro-RNA genes in Drosophila. Mol. Biol. Evol. 25: 929-938.
