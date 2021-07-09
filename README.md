@@ -41,7 +41,7 @@ A program for generating samples under background selection models using the str
 This program implements the methods described in Zeng et al. ([2019](#zeng2019)). These methods can infer demography and detect between-locus differences in Ne (the effective population size) and u (the mutation rate).
 
 
-## [Zeng and Charlesworth (2009)]()
+## [Zeng and Charlesworth (2009)](https://github.com/drkaizeng/publications-and-software/blob/main/zengcharlesworth2009/data_2a_step_m1_2015.11.20.zip)
 This computer package implements the two-allele model with reversible mutation, selection, and varying population size described in Zeng and Charlesworth ([2009](#zeng2009)). It can be used to infer demographic, detect selection on codon usage, and find evidence for GC-biased gene conversion.
 
 
