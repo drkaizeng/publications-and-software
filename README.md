@@ -27,7 +27,7 @@ This computer package contains an extended version of the program used to obtain
 
  
 
-## [Forwards]
+## [Forwards](https://github.com/drkaizeng/publications-and-software/blob/main/forwards/Forwards.tar.gz)
 A program for generating samples under selection and demographic models using forwards-in-time simulations. This algorithm was used in Zeng and Charlesworth ([2011](#zeng2011)), Zeng ([2013](#zeng2013)), and Zeng and Corcoran ([2015](#zeng2015)).
 
  
