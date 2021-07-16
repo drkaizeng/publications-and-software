@@ -50,7 +50,7 @@ This computer package implements the two-allele model with reversible mutation, 
 <a name="publications"></a>
 # Publications
 <a name="zeng2021"></a>
-- Zeng K, Charlesworth B, Hobolth A. 2021. Studying models of balancing selection using phase-type theory. Genetics *in the press*. 
+- Zeng K, Charlesworth B, Hobolth A. 2021. Studying models of balancing selection using phase-type theory. Genetics 218:iyab055. 
 
 - Hayes K, Barton HJ, Zeng K. 2020. A study of faster-Z evolution in the great tit (Parus major). Genome Bio Evol 12:210–222. 
 
